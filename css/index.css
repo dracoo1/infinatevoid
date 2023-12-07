@@ -1,0 +1,40 @@
+body {
+    background-image: url('../images/bg.png');
+    background-repeat: no-repeat;
+    
+  }
+  h1 {
+    color: black;
+  }
+
+  p{
+    background-color: #900090;
+    border-width: 20px;
+  }
+
+  div{
+    background-color: red;
+  }
+
+  .Survival{
+    height: 60vh;
+    width: 30%;
+    position: absolute;
+    left: 10;
+    background-color: aqua;
+  }
+
+  .Modded{
+    height: 60vh;
+    width: 30%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: aqua;
+  }
+
+  #minecraftConsole{
+    white-space: pre-wrap;
+  }
+
+  
